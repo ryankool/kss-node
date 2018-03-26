@@ -34,7 +34,7 @@
     "fs-extra": "^5.0.0",
     "glob": "^7.0.3",
     "handlebars": "^4.0.0",
-    "marked": "^0.3.6",
+    "marked": "^0.3.19",
     "nunjucks": "^3.0.1",
     "twig": "^1.10.4",
     "twig-drupal-filters": "^1.0.0",
